@@ -1,0 +1,15 @@
+Valori in output:
+	- numero totale clienti
+	- numero clienti soddisfatti
+	- numero clienti insoddisfatti
+
+	
+	
+Arriva gruppo clienti
+ - tavolo libero? (di dimensione adeguata)
+ 	- Si 
+ 		- riempiono per metà?
+ 			- Si --> assegna tavolo
+ 			- No --> Indirizzarli bancone (?)
+ 	- No --> vedere se si riesce a indirizzarli verso il bancone
+ 	
